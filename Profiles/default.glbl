@@ -6,22 +6,22 @@
    <defaultProfile>true</defaultProfile>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'http://cms.demo.katalon.com/my-account'</initValue>
+      <initValue>'https://www.saucedemo.com'</initValue>
       <name>urlLogin</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'customer'</initValue>
+      <initValue>'standard_user'</initValue>
       <name>username</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'crz7mrb.KNG3yxv1fbn'</initValue>
+      <initValue>'secret_sauce'</initValue>
       <name>password</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>5</initValue>
+      <initValue>2</initValue>
       <name>waitPresentTimeout</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
