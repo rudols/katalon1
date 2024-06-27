@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login-Click Add To Cart-Close Browser</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>760b4d6e-3691-4dd9-8a93-5ffdf985c148</testCaseGuid>
+</TestCaseEntity>

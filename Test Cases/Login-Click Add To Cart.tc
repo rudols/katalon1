@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login-Click Add To Cart</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>178ad3f0-eb5c-4da5-be17-c071ec66e33a</testCaseGuid>
+</TestCaseEntity>
