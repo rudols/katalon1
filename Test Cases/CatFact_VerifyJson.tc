@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CatFact_VerifyJson</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6e5654cf-04bc-41f4-b0ac-5def539e918a</testCaseGuid>
+</TestCaseEntity>

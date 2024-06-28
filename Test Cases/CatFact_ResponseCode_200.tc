@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CatFact_ResponseCode_200</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f8f83419-1506-48ad-8e96-12c94774a9b5</testCaseGuid>
+</TestCaseEntity>
