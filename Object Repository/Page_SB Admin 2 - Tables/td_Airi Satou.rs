@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Airi Satou</name>
+   <tag></tag>
+   <elementGuidId>e0b89321-b407-461b-9e54-7e2f903dedd2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td.sorting_1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='dataTable']/tbody/tr/td</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=gridcell[name=&quot;Airi Satou&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>73aa968a-40a9-4d76-aa8f-08a76ab7d1e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sorting_1</value>
+      <webElementGuid>ac1a9ffe-1d52-4909-9f68-2ab3bc5ff986</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Airi Satou</value>
+      <webElementGuid>635200cb-bfd5-47ec-b27b-190334cd6c1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dataTable&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[@class=&quot;sorting_1&quot;]</value>
+      <webElementGuid>4c59b89d-1452-4b17-8c69-9b31ed106773</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='dataTable']/tbody/tr/td</value>
+      <webElementGuid>518cb899-5770-444b-81bb-b0882e188854</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Salary'])[2]/following::td[1]</value>
+      <webElementGuid>a2a3db6d-2f36-4428-b5bd-8796db0686d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start date'])[2]/following::td[1]</value>
+      <webElementGuid>28aacb65-f4f9-4da2-9769-2cc0bdc894b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Accountant'])[1]/preceding::td[1]</value>
+      <webElementGuid>b08237d0-7d35-4aa3-81cb-3e8bdc8467c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tokyo'])[1]/preceding::td[2]</value>
+      <webElementGuid>9b2e51a7-3d81-4922-a282-526463cd334b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Airi Satou']/parent::*</value>
+      <webElementGuid>6069df28-0065-4589-83cf-c3885b1a9e7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td</value>
+      <webElementGuid>2b591ec2-2467-4ea3-8890-2df919fad21e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Airi Satou' or . = 'Airi Satou')]</value>
+      <webElementGuid>2779072b-6a17-40b5-9580-e857fe28b31e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
