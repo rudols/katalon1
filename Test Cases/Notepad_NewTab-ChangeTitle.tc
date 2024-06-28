@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Notepad_NewTab-ChangeTitle</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>170ad7be-24b8-4c36-9651-7a83c78bd938</testCaseGuid>
+</TestCaseEntity>

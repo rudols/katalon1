@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Notepad_NewTab-ThenCloseTab</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4f0d83cb-8ead-4b86-9b5a-3b541a7fc845</testCaseGuid>
+</TestCaseEntity>
