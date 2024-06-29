@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Get One Booking Id From GetBookingIds</description>
+   <name>GetOneBookingId</name>
+   <tag>API</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1cb50c36-65f2-4100-89da-601561332ad4</testCaseGuid>
+</TestCaseEntity>
