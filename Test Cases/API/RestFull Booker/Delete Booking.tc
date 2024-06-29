@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Delete Booking</name>
+   <tag>API</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0424e218-4bbf-43ee-a0fb-5c8fe348f4b2</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebServiceRequestEntity>
+   <description>A simple health check endpoint to confirm whether the API is up and running.</description>
+   <name>HealthCheck</name>
+   <tag></tag>
+   <elementGuidId>b79ae9c6-fb87-4ba2-9df6-8e78e3347784</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <autoUpdateContent>true</autoUpdateContent>
+   <connectionTimeout>-1</connectionTimeout>
+   <followRedirects>false</followRedirects>
+   <httpBody></httpBody>
+   <httpBodyContent></httpBodyContent>
+   <httpBodyType></httpBodyType>
+   <katalonVersion>9.5.0</katalonVersion>
+   <maxResponseSize>-1</maxResponseSize>
+   <migratedVersion>5.4.1</migratedVersion>
+   <path></path>
+   <restRequestMethod>GET</restRequestMethod>
+   <restUrl>https://restful-booker.herokuapp.com/ping</restUrl>
+   <serviceType>RESTful</serviceType>
+   <soapBody></soapBody>
+   <soapHeader></soapHeader>
+   <soapRequestMethod></soapRequestMethod>
+   <soapServiceEndpoint></soapServiceEndpoint>
+   <soapServiceFunction></soapServiceFunction>
+   <socketTimeout>-1</socketTimeout>
+   <useServiceInfoFromWsdl>true</useServiceInfoFromWsdl>
+   <wsdlAddress></wsdlAddress>
+</WebServiceRequestEntity>
