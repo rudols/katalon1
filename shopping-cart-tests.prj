@@ -7,9 +7,9 @@
    <freeLicense>false</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <modifiedEdition>ENTERPRISE</modifiedEdition>
-   <modifiedVersion>9.5.0</modifiedVersion>
+   <modifiedVersion>9.6.0</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>C:\Users\EFRANR\OneDrive - PT XL Axiata Tbk\Katalon Studio\shop-cart-test\shopping-cart-tests.prj</projectFileLocation>
+   <projectFileLocation>C:\Users\rudyd\git\katalon1\shopping-cart-tests.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

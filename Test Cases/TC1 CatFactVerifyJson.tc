@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC1 CatFactVerifyJson</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e872db7f-eae1-4e81-8345-98a4bfd48983</testCaseGuid>
+</TestCaseEntity>
